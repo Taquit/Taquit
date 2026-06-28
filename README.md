@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ruben 👋
 
-<!--
-**Taquit/Taquit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer | Cloud & DevOps Enthusiast | Systems Engineer**
 
-Here are some ideas to get you started:
+I specialize in designing and developing scalable applications. My primary focus is building efficient software and robust architectures that drive real value, performance, and profitability in the tech industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+
+-  I actively engage with the tech community by delivering hands-on workshops on Cloud Computing.
+-  My daily workflow and development environments are strictly Linux-based (Fedora/Ubuntu).
+-  Ask me about **Java, Python, containerized deployments, or AWS infrastructure**.
+-  Connect with me on: 
+-  Languages: Spanish (Native), English.
+
+### Tech Stack
+
+*   **Backend:** Java (Spring Boot) | Python (Django, FastAPI) | PHP
+*   **Frontend:** React | Bootstrap
+*   **Cloud & DevOps:** AWS (EC2, S3, Fargate) | Docker | Docker Compose
+*   **Tools & OS:** Linux | Git
