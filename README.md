@@ -18,3 +18,8 @@ I specialize in designing and developing scalable applications. My primary focus
 *   **Frontend:** React | Bootstrap
 *   **Cloud & DevOps:** AWS (EC2, S3, Fargate) | Docker | Docker Compose
 *   **Tools & OS:** Linux | Git
+
+### Fun Facts:
+- I love green clasic monster
+- I have a dog
+* **Hobbies:** Video-games, Voleibol and cycling
